@@ -1,1 +1,1 @@
-# Probabilidade-para-Ci-ncia-de-Dados
+# Probabilidade-para-Ciencia-de-Dados
